@@ -12,11 +12,11 @@ const resumeData = {
       url: ' https://www.linkedin.com/in/payel-saha-06467b177/',
       className: 'fa fa-linkedin',
     },
-    // {
-    //   name: 'github',
-    //   url: 'http://github.com/rbhatia46',
-    //   className: 'fa fa-github',
-    // },
+    {
+      name: 'youtube',
+      url: 'https://youtube.com/channel/UCEIuUiBYanWXKHfXvXBwrOw',
+      className: 'fa fa-youtube',
+    },
     {
       name: 'skype',
       url: 'https://twitter.com/PayelSa82031330',
@@ -26,7 +26,7 @@ const resumeData = {
   aboutme:
     'My name is Payel Saha. I live In WestBengal,India. Currently I am pursuing MCA at Adamas University, Barsat. I specialized in Graphics design. I like to listen motivational talks. People who work hard inspire me.',
   address: 'India',
-  website: 'https://rbhatia46.github.io',
+  website: 'https://payel-saha.netlify.app/',
   education: [
     {
       UniversityName: 'Adamas University',
