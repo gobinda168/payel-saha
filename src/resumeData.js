@@ -9,7 +9,7 @@ const resumeData = {
   socialLinks: [
     {
       name: 'linkedin',
-      url: ' https://www.linkedin.com/in/payel-saha-06467b177/',
+      url: 'https://www.linkedin.com/in/payel-saha-06467b177/',
       className: 'fa fa-linkedin',
     },
     {
@@ -24,7 +24,7 @@ const resumeData = {
     },
   ],
   aboutme:
-    'My name is Payel Saha. I live In WestBengal,India. Currently I am pursuing MCA at Adamas University, Barsat. I specialized in Graphics design. I like to listen motivational talks. People who work hard inspire me.',
+    'My name is Payel Saha. I live In West Bengal,India. Currently I am pursuing MCA at Adamas University, Barasat. I am specialized in Graphics design. I like to listen motivational talks. People who work hard really inspire me.',
   address: 'India',
   website: 'https://payel-saha.netlify.app/',
   education: [

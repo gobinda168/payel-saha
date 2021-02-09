@@ -325,21 +325,27 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+.graphics-design {
+  	width: 90%;
+  	-moz-animation: graphics-design 2s ease;
+  	-webkit-animation: graphics-design 2s ease;
 }
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+.web-design {
+  	width: 75%;
+  	-moz-animation: web-design 2s ease;
+  	-webkit-animation: web-design 2s ease;
 }
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.product-design {
+  	width: 85%;
+  	-moz-animation: product-design 2s ease;
+  	-webkit-animation: product-design 2s ease;
 }
+.animation {
+  width: 70%;
+  -moz-animation: animation 2s ease;
+  -webkit-animation: animation 2s ease;
+}
+
 .css {
   	width: 90%;
   	-moz-animation: css 2s ease;
@@ -356,18 +362,27 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: jquery 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes graphics-design {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 90%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes web-design {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 75%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes product-design {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 85%;  }
 }
+@-moz-keyframes animation {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 70%;
+  }
+}
+
 @-moz-keyframes css {
   0%   { width: 0px;  }
   100% { width: 90%;  }
@@ -381,18 +396,27 @@ ul#nav li.current a { color: #F06000; }
   100% { width: 50%;  }
 }
 
-@-webkit-keyframes photoshop {
+@-webkit-keyframes graphics-design {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 90%;  }
 }
-@-webkit-keyframes illustrator {
+@-webkit-keyframes web-design {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 75%;  }
 }
-@-webkit-keyframes wordpress {
+@-webkit-keyframes product-design {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 85%;  }
 }
+@-webkit-keyframes animation {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 70%;
+  }
+}
+
 @-webkit-keyframes css {
   0%   { width: 0px;  }
   100% { width: 90%;  }
