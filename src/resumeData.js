@@ -12,11 +12,11 @@ const resumeData = {
       url: ' https://www.linkedin.com/in/payel-saha-06467b177/',
       className: 'fa fa-linkedin',
     },
-    {
-      name: 'github',
-      url: 'http://github.com/rbhatia46',
-      className: 'fa fa-github',
-    },
+    // {
+    //   name: 'github',
+    //   url: 'http://github.com/rbhatia46',
+    //   className: 'fa fa-github',
+    // },
     {
       name: 'skype',
       url: 'https://twitter.com/PayelSa82031330',
