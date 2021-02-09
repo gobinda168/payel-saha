@@ -68,22 +68,22 @@ const resumeData = {
     {
       name: 'project1',
       description: 'mobileapp',
-      imgurl: 'images/portfolio/phone.jpg',
+      imgurl: 'project11.gif',
     },
     {
       name: 'project2',
       description: 'mobileapp',
-      imgurl: 'images/portfolio/project.jpg',
+      imgurl: 'project28.gif',
     },
     {
       name: 'project3',
       description: 'mobileapp',
-      imgurl: 'images/portfolio/project2.png',
+      imgurl: 'project1.gif',
     },
     {
       name: 'project4',
       description: 'mobileapp',
-      imgurl: 'images/portfolio/phone.jpg',
+      imgurl: 'project2.gif',
     },
   ],
   testimonials: [
