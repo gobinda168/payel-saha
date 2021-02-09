@@ -1033,10 +1033,11 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 .work-title{
    text-align: center;
-   font-size: small;
-   padding: 4rem;
+   padding: 3rem 0 2rem 0;
+   background-color: rgb(230, 230, 230);
 }
 .work-title >h1{
-  color: grey;
-  font-size: large;
+  color: rgb(27, 27, 27);
+  font-size: x-large;
+  text-transform: uppercase;
 }

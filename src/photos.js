@@ -40,4 +40,24 @@ export const photos = [
     width: 4,
     height: 3,
   },
+  {
+    src: `${baseImgSrc}project7.jpg`,
+    width: 4,
+    height: 3,
+  },
+  {
+    src: `${baseImgSrc}project4.gif`,
+    width: 4,
+    height: 3,
+  },
+  {
+    src: `${baseImgSrc}project9.jpg`,
+    width: 4,
+    height: 3,
+  },
+  {
+    src: `${baseImgSrc}project13.png`,
+    width: 4,
+    height: 3,
+  },
 ];

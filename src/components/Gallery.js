@@ -25,9 +25,9 @@ const WorkGallery = () => {
     //         id="portfolio-wrapper"
     //         className="bgrid-quarters s-bgrid-thirds cf"
     //       >
-    <div className="img-gallery">
+    <div className="img-gallery" id="portfolio">
       <div className="work-title">
-        <h1>Check Out Some of My Works.</h1>
+        <h1>Check Out Some of My Works</h1>
       </div>
       <Gallery photos={photos} onClick={openLightbox} />
       <ModalGateway>

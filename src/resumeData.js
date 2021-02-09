@@ -25,7 +25,7 @@ const resumeData = {
   ],
   aboutme:
     'My name is Payel Saha. I live In West Bengal,India. Currently I am pursuing MCA at Adamas University, Barasat. I am specialized in Graphics design. I like to listen motivational talks. People who work hard really inspire me.',
-  address: 'India',
+  address: 'psaha5012@gmail.com',
   website: 'https://payel-saha.netlify.app/',
   education: [
     {
