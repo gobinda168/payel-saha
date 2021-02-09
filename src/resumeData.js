@@ -53,15 +53,19 @@ const resumeData = {
   skills: [
     {
       skillname: 'Graphics Design',
+      css: 'graphics-design',
     },
     {
       skillname: 'Web Design',
+      css: 'web-design',
     },
     {
       skillname: 'Product Design',
+      css: 'product-design',
     },
     {
       skillname: 'Animation',
+      css: 'animation',
     },
   ],
   portfolio: [

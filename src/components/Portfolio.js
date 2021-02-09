@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 export default class Porfolio extends Component {
   render() {
-    let resumeData = this.props.resumeData;
+    const resumeData = this.props.resumeData;
     return (
       <section id="portfolio">
         <div className="row">
@@ -18,7 +18,7 @@ export default class Porfolio extends Component {
                       <div className="item-wrap">
                         <a href="#modal-01">
                           <img
-                            src={`${item.imgurl}`}
+                            src={`${resumeData.imagebaseurl}${item.imgurl}`}
                             alt=""
                             className="item-img"
                           />
